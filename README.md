@@ -1,8 +1,4 @@
 <!--
-**easinwebpro/easinwebpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<!--
 **abdazzamajhari/abdazzamajhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there👋, I'm Easin Islam!</h1>
+<h1 align="center">Hi there👋, I'm Abdul "Azzam" Ajhari!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=easinwebpro&label=Views&color=brightgreen&style=plastic" alt="abdazzamajhari" /> </p>
 
@@ -25,10 +21,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Machine Learning Engineer
 - 👨‍💻 My portfolio website [https://matasiber.com](https://matasiber.com)
 <!-- - 🌱 I’m currently learning everything 🤣 -->
-- 🥅 2021 Goals: Learn TypeScript, Express.js, Graphql, Nodejs 😍
-- ⚡ Fun fact: I love coding and watch movies
-- 💬 Ask me about JavaScript or any tech related stuff.
-- 📫 How to reach me. =>  easinwebpro@gmail.com
+- 🥅 2021 Goals: Deep Learning Engineer 😍
+- ⚡ Fun fact: I love Artificial Intelligence and Chill with Netflix
+- 💬 Ask me about Data Science.
+- 📫 How to reach me. => Go to my linkedin page!
 
 <hr/>
 
