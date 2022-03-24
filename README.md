@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=easinwebpro&label=Views&color=brightgreen&style=plastic" alt="abdazzamajhari" /> </p>
 
-### I'm a 1st Expert Research Engineer !😍!.
+### I'm a 1st Expert Research Engineer !!😍.
 - 🔭 I’m currently working as a Machine Learning Engineer
 - 👨‍💻 My portfolio website [https://matasiber.com](https://matasiber.com)
 <!-- - 🌱 I’m currently learning everything 🤣 -->
 - 🥅 2021 Goals: Deep Learning Engineer 😍
 - ⚡ Fun fact: I love Artificial Intelligence and Chill with Netflix
-- 💬 Ask me about Data Science.
+- 💬 Ask me about Data Scientist.
 - 📫 How to reach me. => Go to my linkedin page!
 
 <hr/>
